@@ -16,6 +16,8 @@ The app is built using HTML, CSS (Bootstrap), and JavaScript (jQuery). It utiliz
 - Local storage to persist user data across page reloads
 
 ## Usage
+![image](https://github.com/LukeNukem11/Do-I-Have-Enough-Time/assets/118786612/cacd6b29-48b2-4276-b327-80701477dfd8)
+
 
 1. Open the Do I Have Enough Time application in a web browser.
 2. The current date will be displayed at the top of the page.
