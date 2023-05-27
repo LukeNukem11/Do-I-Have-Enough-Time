@@ -27,6 +27,9 @@ The app is built using HTML, CSS (Bootstrap), and JavaScript (jQuery). It utiliz
 6. The task/event will be saved and will persist even if you refresh the page.
 7. The color of the time blocks will change dynamically to indicate past, present, and future time slots.
 
+![image](https://github.com/LukeNukem11/Do-I-Have-Enough-Time/assets/118786612/a71b0234-5afd-4a45-b476-b6c39b5ab838)
+
+
 ## Credits
 
 - Bootstrap: [https://getbootstrap.com/](https://getbootstrap.com/)
