@@ -16,6 +16,8 @@ The app is built using HTML, CSS (Bootstrap), and JavaScript (jQuery). It utiliz
 - Local storage to persist user data across page reloads
 
 ## Usage
+![image](https://github.com/LukeNukem11/Do-I-Have-Enough-Time/assets/118786612/cacd6b29-48b2-4276-b327-80701477dfd8)
+
 
 1. Open the Do I Have Enough Time application in a web browser.
 2. The current date will be displayed at the top of the page.
@@ -24,6 +26,9 @@ The app is built using HTML, CSS (Bootstrap), and JavaScript (jQuery). It utiliz
 5. Click the save button (represented by a floppy disk icon) to save the task/event.
 6. The task/event will be saved and will persist even if you refresh the page.
 7. The color of the time blocks will change dynamically to indicate past, present, and future time slots.
+
+![image](https://github.com/LukeNukem11/Do-I-Have-Enough-Time/assets/118786612/a71b0234-5afd-4a45-b476-b6c39b5ab838)
+
 
 ## Credits
 
